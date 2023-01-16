@@ -1,0 +1,118 @@
+Tashkent    41.3000
+Uzbekistan    69.2667
+Namangan    40.9953
+Uzbekistan    71.6725
+Samarkand    39.6542
+Uzbekistan    66.9597
+Andijon    40.7000
+Uzbekistan    72.3500
+Qoqon    40.5404
+Uzbekistan    70.9400
+Nukus    42.4647
+Uzbekistan    59.6022
+Farg‘ona    40.3864
+Uzbekistan    71.7864
+Bukhara    39.7747
+Uzbekistan    64.4286
+Qarshi    38.8667
+Uzbekistan    65.8000
+Denov    38.2772
+Uzbekistan    67.8872
+Marg‘ilon    40.4667
+Uzbekistan    71.7167
+Iskandar    41.5507
+Uzbekistan    69.6807
+Jizzax    40.1167
+Uzbekistan    67.8500
+Chirchiq    41.4667
+Uzbekistan    69.5833
+Termiz    37.2242
+Uzbekistan    67.2783
+Urganch    41.5345
+Uzbekistan    60.6249
+Navoiy    40.0833
+Uzbekistan    65.3833
+Angren    41.0167
+Uzbekistan    70.1333
+Olmaliq    40.8500
+Uzbekistan    69.6000
+Kogon Shahri    39.7211
+Uzbekistan    64.5458
+Shahrisabz    39.0500
+Uzbekistan    66.8333
+Guliston    40.4833
+Uzbekistan    68.7833
+Urgut Shahri    39.4007
+Uzbekistan    67.2607
+Kattagan    40.2000
+Uzbekistan    64.9167
+Bekobod    40.2258
+Uzbekistan    69.2292
+Qo‘ng‘irot Shahri    43.0758
+Uzbekistan    58.9067
+Xo‘jayli Shahri    42.4047
+Uzbekistan    59.4517
+Kattaqo’rg’on Shahri    39.8958
+Uzbekistan    66.2656
+Qŭnghirot    43.0704
+Uzbekistan    58.9000
+Xiva    41.3783
+Uzbekistan    60.3639
+Zarafshon Shahri    41.5667
+Uzbekistan    64.2000
+Tŭrtkŭl    41.5500
+Uzbekistan    61.0000
+Beruniy    41.6833
+Uzbekistan    60.7500
+Chimboy Shahri    42.9311
+Uzbekistan    59.7708
+Chortoq    41.0689
+Uzbekistan    71.8153
+Xonobod    40.8127
+Uzbekistan    72.9731
+Payshamba Shahri    40.0050
+Uzbekistan    66.2264
+Kosonsoy    41.2492
+Uzbekistan    71.5458
+G’ijduvon Shahri    40.1000
+Uzbekistan    64.6833
+Yangiyer    40.2667
+Uzbekistan    68.8167
+Bo‘ka    40.8136
+Uzbekistan    69.2019
+Rishton    40.3567
+Uzbekistan    71.2847
+Uchquduq Shahri    42.1567
+Uzbekistan    63.5556
+Manghit    42.1236
+Uzbekistan    60.0583
+Nurota    40.5650
+Uzbekistan    65.6850
+Qorasuv    40.7222
+Uzbekistan    72.8872
+Mŭynoq    43.7667
+Uzbekistan    59.0333
+G‘uzor    38.6208
+Uzbekistan    66.2481
+Boysun    38.2122
+Uzbekistan    67.1989
+Yaypan    40.3758
+Uzbekistan    70.8156
+Juma Shahri    39.7094
+Uzbekistan    66.6614
+Chiroqchi    39.0336
+Uzbekistan    66.5739
+Vobkent Shahri    40.0233
+Uzbekistan    64.5139
+Yangirabot    40.0333
+Uzbekistan    65.9667
+Tinchlik    40.4264
+Uzbekistan    71.4956
+Sharg‘un    38.4639
+Uzbekistan    67.9672
+Shumanay    42.6386
+Uzbekistan    58.9172
+Qiziltepa    40.0319
+Uzbekistan    64.8492
+Bo‘ston    41.8478
+Uzbekistan    60.9300
