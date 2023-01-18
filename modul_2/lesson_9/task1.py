@@ -4,15 +4,13 @@ a) Population 20 000 000 dan ko'p bo'lgan mamlakatlar ro'yxatini chiqaring.
 b) C bilan boshlanadigan davlatlar ro'yxatini txt file ga yozing.
 c) GDP 1000 dan baland bo'lganlar ro'yxatini qaytaring.
 """
+from Python.modul_2.exceptions import write_exceptions
 import csv
 
 
 class Country:
     def __init__(self, file_):
         self.file = file_
-
-    def get_file(self):
-        return self.file
 
     def get_full_info(self):
         full_info = []
@@ -23,7 +21,7 @@ class Country:
                 for row in reader_file:
                     full_info.append(row)
         except FileNotFoundError as e:
-            return e
+            write_exceptions(e)
         return full_info
 
     def get_population(self):
@@ -48,8 +46,8 @@ class Country:
         for i in full_info:
             try:
                 int(i.get("GDP ($ per capita)"))
-            except TypeError as e:
-                return e
+            except ValueError as e:
+                write_exceptions(e)
             else:
                 if int(i.get("GDP ($ per capita)").strip()) > 1000:
                     gdp_country.append(i)
@@ -65,8 +63,11 @@ def get_file_txt():
             for i in obj.get_population():
                 file.write(str(i))
     except FileNotFoundError as e:
-        return e
+        write_exceptions(e)
     return file
 
-obj.get_gdp_country()
 
+obj.get_population()
+obj.get_gdp_country()
+obj.get_full_info()
+obj.get_c_country()

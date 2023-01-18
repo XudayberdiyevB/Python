@@ -1,118 +1,59 @@
-Tashkent    41.3000
-Uzbekistan    69.2667
-Namangan    40.9953
-Uzbekistan    71.6725
-Samarkand    39.6542
-Uzbekistan    66.9597
-Andijon    40.7000
-Uzbekistan    72.3500
-Qoqon    40.5404
-Uzbekistan    70.9400
-Nukus    42.4647
-Uzbekistan    59.6022
-Farg‘ona    40.3864
-Uzbekistan    71.7864
-Bukhara    39.7747
-Uzbekistan    64.4286
-Qarshi    38.8667
-Uzbekistan    65.8000
-Denov    38.2772
-Uzbekistan    67.8872
-Marg‘ilon    40.4667
-Uzbekistan    71.7167
-Iskandar    41.5507
-Uzbekistan    69.6807
-Jizzax    40.1167
-Uzbekistan    67.8500
-Chirchiq    41.4667
-Uzbekistan    69.5833
-Termiz    37.2242
-Uzbekistan    67.2783
-Urganch    41.5345
-Uzbekistan    60.6249
-Navoiy    40.0833
-Uzbekistan    65.3833
-Angren    41.0167
-Uzbekistan    70.1333
-Olmaliq    40.8500
-Uzbekistan    69.6000
-Kogon Shahri    39.7211
-Uzbekistan    64.5458
-Shahrisabz    39.0500
-Uzbekistan    66.8333
-Guliston    40.4833
-Uzbekistan    68.7833
-Urgut Shahri    39.4007
-Uzbekistan    67.2607
-Kattagan    40.2000
-Uzbekistan    64.9167
-Bekobod    40.2258
-Uzbekistan    69.2292
-Qo‘ng‘irot Shahri    43.0758
-Uzbekistan    58.9067
-Xo‘jayli Shahri    42.4047
-Uzbekistan    59.4517
-Kattaqo’rg’on Shahri    39.8958
-Uzbekistan    66.2656
-Qŭnghirot    43.0704
-Uzbekistan    58.9000
-Xiva    41.3783
-Uzbekistan    60.3639
-Zarafshon Shahri    41.5667
-Uzbekistan    64.2000
-Tŭrtkŭl    41.5500
-Uzbekistan    61.0000
-Beruniy    41.6833
-Uzbekistan    60.7500
-Chimboy Shahri    42.9311
-Uzbekistan    59.7708
-Chortoq    41.0689
-Uzbekistan    71.8153
-Xonobod    40.8127
-Uzbekistan    72.9731
-Payshamba Shahri    40.0050
-Uzbekistan    66.2264
-Kosonsoy    41.2492
-Uzbekistan    71.5458
-G’ijduvon Shahri    40.1000
-Uzbekistan    64.6833
-Yangiyer    40.2667
-Uzbekistan    68.8167
-Bo‘ka    40.8136
-Uzbekistan    69.2019
-Rishton    40.3567
-Uzbekistan    71.2847
-Uchquduq Shahri    42.1567
-Uzbekistan    63.5556
-Manghit    42.1236
-Uzbekistan    60.0583
-Nurota    40.5650
-Uzbekistan    65.6850
-Qorasuv    40.7222
-Uzbekistan    72.8872
-Mŭynoq    43.7667
-Uzbekistan    59.0333
-G‘uzor    38.6208
-Uzbekistan    66.2481
-Boysun    38.2122
-Uzbekistan    67.1989
-Yaypan    40.3758
-Uzbekistan    70.8156
-Juma Shahri    39.7094
-Uzbekistan    66.6614
-Chiroqchi    39.0336
-Uzbekistan    66.5739
-Vobkent Shahri    40.0233
-Uzbekistan    64.5139
-Yangirabot    40.0333
-Uzbekistan    65.9667
-Tinchlik    40.4264
-Uzbekistan    71.4956
-Sharg‘un    38.4639
-Uzbekistan    67.9672
-Shumanay    42.6386
-Uzbekistan    58.9172
-Qiziltepa    40.0319
-Uzbekistan    64.8492
-Bo‘ston    41.8478
-Uzbekistan    60.9300
+location=https://my-location.org/?lat=41.3000&lng=69.2667
+location=https://my-location.org/?lat=40.9953&lng=71.6725
+location=https://my-location.org/?lat=39.6542&lng=66.9597
+location=https://my-location.org/?lat=40.7000&lng=72.3500
+location=https://my-location.org/?lat=40.5404&lng=70.9400
+location=https://my-location.org/?lat=42.4647&lng=59.6022
+location=https://my-location.org/?lat=40.3864&lng=71.7864
+location=https://my-location.org/?lat=39.7747&lng=64.4286
+location=https://my-location.org/?lat=38.8667&lng=65.8000
+location=https://my-location.org/?lat=38.2772&lng=67.8872
+location=https://my-location.org/?lat=40.4667&lng=71.7167
+location=https://my-location.org/?lat=41.5507&lng=69.6807
+location=https://my-location.org/?lat=40.1167&lng=67.8500
+location=https://my-location.org/?lat=41.4667&lng=69.5833
+location=https://my-location.org/?lat=37.2242&lng=67.2783
+location=https://my-location.org/?lat=41.5345&lng=60.6249
+location=https://my-location.org/?lat=40.0833&lng=65.3833
+location=https://my-location.org/?lat=41.0167&lng=70.1333
+location=https://my-location.org/?lat=40.8500&lng=69.6000
+location=https://my-location.org/?lat=39.7211&lng=64.5458
+location=https://my-location.org/?lat=39.0500&lng=66.8333
+location=https://my-location.org/?lat=40.4833&lng=68.7833
+location=https://my-location.org/?lat=39.4007&lng=67.2607
+location=https://my-location.org/?lat=40.2000&lng=64.9167
+location=https://my-location.org/?lat=40.2258&lng=69.2292
+location=https://my-location.org/?lat=43.0758&lng=58.9067
+location=https://my-location.org/?lat=42.4047&lng=59.4517
+location=https://my-location.org/?lat=39.8958&lng=66.2656
+location=https://my-location.org/?lat=43.0704&lng=58.9000
+location=https://my-location.org/?lat=41.3783&lng=60.3639
+location=https://my-location.org/?lat=41.5667&lng=64.2000
+location=https://my-location.org/?lat=41.5500&lng=61.0000
+location=https://my-location.org/?lat=41.6833&lng=60.7500
+location=https://my-location.org/?lat=42.9311&lng=59.7708
+location=https://my-location.org/?lat=41.0689&lng=71.8153
+location=https://my-location.org/?lat=40.8127&lng=72.9731
+location=https://my-location.org/?lat=40.0050&lng=66.2264
+location=https://my-location.org/?lat=41.2492&lng=71.5458
+location=https://my-location.org/?lat=40.1000&lng=64.6833
+location=https://my-location.org/?lat=40.2667&lng=68.8167
+location=https://my-location.org/?lat=40.8136&lng=69.2019
+location=https://my-location.org/?lat=40.3567&lng=71.2847
+location=https://my-location.org/?lat=42.1567&lng=63.5556
+location=https://my-location.org/?lat=42.1236&lng=60.0583
+location=https://my-location.org/?lat=40.5650&lng=65.6850
+location=https://my-location.org/?lat=40.7222&lng=72.8872
+location=https://my-location.org/?lat=43.7667&lng=59.0333
+location=https://my-location.org/?lat=38.6208&lng=66.2481
+location=https://my-location.org/?lat=38.2122&lng=67.1989
+location=https://my-location.org/?lat=40.3758&lng=70.8156
+location=https://my-location.org/?lat=39.7094&lng=66.6614
+location=https://my-location.org/?lat=39.0336&lng=66.5739
+location=https://my-location.org/?lat=40.0233&lng=64.5139
+location=https://my-location.org/?lat=40.0333&lng=65.9667
+location=https://my-location.org/?lat=40.4264&lng=71.4956
+location=https://my-location.org/?lat=38.4639&lng=67.9672
+location=https://my-location.org/?lat=42.6386&lng=58.9172
+location=https://my-location.org/?lat=40.0319&lng=64.8492
+location=https://my-location.org/?lat=41.8478&lng=60.9300

@@ -6,7 +6,7 @@ b) Uzbekistan shaharlari lat va lng orqali quyidagi ko'rinishdagi
 """
 
 import csv
-
+from Python.modul_2.exceptions import write_exceptions
 
 class Country:
     def __init__(self, file_):
@@ -22,7 +22,7 @@ class Country:
                         uzbekistan.append(i)
 
         except FileNotFoundError as e:
-            return e
+            write_exceptions(e)
         else:
             with open("uzbekistan.txt", "w+", encoding="utf8") as file:
                 for i in uzbekistan:
@@ -34,14 +34,12 @@ class Country:
         try:
             with open("task2.txt", "w", encoding="utf8") as f:
                 for i in self.city_in_txt():
-                    lst.append(f"{i.get('city')}    {i.get('lat')}")
-                    lst.append(f"{i.get('country')}    {i.get('lng')}")
+                    lst.append(f"location=https://my-location.org/?lat={i.get('lat')}&lng={i.get('lng')}")
                 for i in lst:
                     f.writelines(f"{i}\n")
-        except FileNotFoundError:
-            pass
+        except FileNotFoundError as e:
+            write_exceptions(e)
         return lst
 
 
 obj = Country("worldcities.csv")
-print(obj.city_lat_long())
