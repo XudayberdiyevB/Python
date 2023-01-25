@@ -23,7 +23,7 @@ class Account:
         for i in info:
             if i.get("Country/Continent") == "United States":
                 try:
-                    with open("United States account.csv", "a") as files:
+                    with open("United States account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -31,7 +31,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "India":
                 try:
-                    with open("India account.csv", "a") as files:
+                    with open("India account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -40,7 +40,7 @@ class Account:
 
             if i.get("Country/Continent") == "Portugal":
                 try:
-                    with open("Portugal account.csv", "a") as files:
+                    with open("Portugal account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -48,7 +48,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "Argentina":
                 try:
-                    with open("Argentina account.csv", "a") as files:
+                    with open("Argentina account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -56,7 +56,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "Canada":
                 try:
-                    with open("Canada account.csv", "a") as files:
+                    with open("Canada account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -64,7 +64,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "Trinidad and Tobago United States":
                 try:
-                    with open("Trinidad and Tobago United States account.csv", "a") as files:
+                    with open("Trinidad and Tobago United States account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -72,7 +72,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "Canada":
                 try:
-                    with open("Canada account.csv", "a") as files:
+                    with open("Canada account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
@@ -80,7 +80,7 @@ class Account:
                     write_exceptions(e)
             if i.get("Country/Continent") == "Brazil":
                 try:
-                    with open("Brazil account.csv", "a") as files:
+                    with open("Brazil account.csv", "w") as files:
                         file = csv.DictWriter(files, header)
                         file.writeheader()
                         file.writerow(i)
