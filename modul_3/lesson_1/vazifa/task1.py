@@ -51,30 +51,33 @@ class Department:
         dob_res = []
         doj = []
         doj_res = []
-        # for i in info_1:
-        #     name.append(i.get("Department_Name"))
+
         for i in info_2:
             department_id.append(i.get("Department_ID"))
             id.append(i.get("Employee ID"))
             dob.append(i.get("DOB").split("T")[0])
             doj.append(i.get("DOJ").split("T")[0])
+
         for i in dob:
             r = ""
             r += i.split("-")[0]
             r += " " + i.split("-")[1].replace(f"{i.split('-')[1]}", f"{calendar.get(i.split('-')[1])}")
             r += " " + i.split("-")[2]
             dob_res.append(r)
+
         for i in doj:
             r = ""
             r += i.split("-")[0]
             r += " " + i.split("-")[1].replace(f"{i.split('-')[1]}", f"{calendar.get(i.split('-')[1])}")
             r += " " + i.split("-")[2]
             doj_res.append(r)
+
         for i in range(len(id)):
             for j in info_1:
                 if department_id[i] == j.get("Department_ID"):
                     result.append([f'{id[i]},{dob_res[i]},{doj_res[i]},{j.get("Department_Name")}'])
                     break
+
         return result
 
     def get_writer_new_csv(self):
