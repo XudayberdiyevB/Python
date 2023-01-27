@@ -5,11 +5,11 @@ yig'indisini qaytarsin. Funksiyaga beriladigan argumentni tekshirish uchun dekor
 
 
 def get_type(func):
-    def get_check_type(list_):
-        if type(list_) != list:
+    def get_check_type(lst):
+        if not isinstance(lst, list):
             return f"Please send only list."
         else:
-            return func(list_)
+            return func(lst)
 
     return get_check_type
 
