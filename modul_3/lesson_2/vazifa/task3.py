@@ -3,14 +3,17 @@ Ikkita sonni qo'shadigan funksiyaga dekorator qo'shing, bunda funksiya qiymati 2
 """
 
 
-def get_two_sum(num_1, num_2):
-    sum_ = num_1 + num_2
-
-    def get_num():
-        return sum_ * 2
+def get_two_sum(func_):
+    def get_num(a, b):
+        return func_(a, b) * 2
 
     return get_num
 
 
-func = get_two_sum(5, 2)
-print(func())
+@get_two_sum
+def add(a, b):
+    return a + b
+
+
+func = add(2, 4)
+print(func)
