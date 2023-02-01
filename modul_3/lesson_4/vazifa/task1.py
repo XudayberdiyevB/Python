@@ -8,8 +8,7 @@ window.geometry("500x600")
 
 def calculate_age():
     year = birth_year_entry.get().split("/")
-    import datetime
-    a = datetime.date(year=int(year[-1]), month=int(year[-2]), day=int(year[-3]))
+    a = date(year=int(year[-1]), month=int(year[-2]), day=int(year[-3]))
     b = date.today()
     text = int((b - a).days / (365.2425))
     info["text"] = f" Your age {text}"
